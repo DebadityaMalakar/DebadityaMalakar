@@ -36,7 +36,11 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
+<!--
 [![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=DebadityaMalakar&theme=dark&background=000000](https://streak-stats.demolab.com/?user=DebadityaMalakar&theme=dark))](https://git.io/streak-stats)
+-->
+
+<img src="https://streak-stats.demolab.com/?user=DebadityaMalakar&theme=dark" alt="Github Streak" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebadityaMalakar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
